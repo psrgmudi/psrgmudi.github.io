@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-![cloud_upload](https://user-images.githubusercontent.com/57277033/69504675-06136e80-0ef3-11ea-974c-f572ffdf5107.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
